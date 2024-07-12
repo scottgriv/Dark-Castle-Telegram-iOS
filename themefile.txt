@@ -1,5 +1,8 @@
 name: Dark Castle iOS
 shortname: wPAMRRVDLaWv0E7Y
+// By: Scott Grivner
+// Repository: https://github.com/scottgriv/Dark-Castle-Telegram-iOS
+// Website: https://darkcastle.netlify.app/
 basedOn: night
 dark: true
 intro_statusBar: white
@@ -51,7 +54,7 @@ list_plainBg: #1A1A1A
 list_primaryText: #FFD580
 list_secondaryText: #FFD580
 list_disabledText: #575757
-list_accent: #FF8040
+list_accent: #FF8040https://developer.apple.com/
 list_highlighted: #08D220
 list_destructive: #FF000F
 list_placeholderText: #575757
@@ -67,7 +70,7 @@ list_freeTextSuccess: #FF8040
 list_freeMonoIcon: #9C9C9C
 list_switch_frame: #292929
 list_switch_handle: #1A1A1A
-list_switch_content: #FFD580
+list_switch_content: #BAE67E
 list_switch_positive: #BAE67E
 list_switch_negative: #EF6B73
 list_disclosureActions_neutral1_bg: #292929
@@ -84,7 +87,7 @@ list_disclosureActions_warning_bg: #FF5503
 list_disclosureActions_warning_fg: #FFD580
 list_disclosureActions_inactive_bg: #292929
 list_disclosureActions_inactive_fg: #FFD580
-list_check_bg: #FF8040
+list_check_bg: #9354FF
 list_check_stroke: #9354FF
 list_check_fg: #FFFFFF
 list_controlSecondary: #0D8501
@@ -94,8 +97,8 @@ list_freeInputField_placeholder: #292929
 list_freeInputField_primary: #FFD580
 list_freeInputField_control: #292929
 list_mediaPlaceholder: #292929
-list_scrollIndicator: #D5804C
-list_pageIndicatorInactive: #D5804C
+list_scrollIndicator: #FF8040
+list_pageIndicatorInactive: #FF8040
 list_inputClearButton: #575757
 list_itemBarChart_color1: #FF8040
 list_itemBarChart_color2: #575757
@@ -105,10 +108,10 @@ list_itemInputField_stroke: #0F0F0F
 list_itemInputField_placeholder: #8F8F8F
 list_itemInputField_primary: #FFFFFF
 list_itemInputField_control: #8F8F8F
-chatList_bg: #1A1A1A
+chatList_bg: #000000
 chatList_itemSeparator: #2D449B
-chatList_itemBg: #1A1A1A
-chatList_pinnedItemBg: #000000
+chatList_itemBg: #000000
+chatList_pinnedItemBg: #1A1A1A
 chatList_itemHighlightedBg: #292929
 chatList_pinnedItemHighlightedBg: #292929
 chatList_itemSelectedBg: #292929
@@ -119,17 +122,17 @@ chatList_authorName: #FFD580
 chatList_messageText: #9C9C9C
 chatList_messageHighlightedText: #FFD580
 chatList_messageDraftText: #FF000F
-chatList_checkmark: #FF8040
+chatList_checkmark:#08D220
 chatList_pendingIndicator: #4164FF
 chatList_failedFill: #FF000F
 chatList_failedFg: #FFD580
-chatList_muteIcon: #FF8040
-chatList_unreadBadgeActiveBg: #FFD580
+chatList_muteIcon: #FF000F
+chatList_unreadBadgeActiveBg: #AA1B86
 chatList_unreadBadgeActiveText: #FFFFFF
 chatList_unreadBadgeInactiveBg: #007B88
 chatList_unreadBadgeInactiveText: #FFFFFF
 chatList_reactionBadgeActiveBg: #FF2D55
-chatList_pinnedBadge: #FF8040
+chatList_pinnedBadge: #FF5503
 chatList_pinnedSearchBar: #292929
 chatList_regularSearchBar: #292929
 chatList_sectionHeaderBg: #1A1A1A
@@ -150,7 +153,6 @@ chatList_storyUnseenPrivate_top: #7CD636
 chatList_storyUnseenPrivate_bottom: #26B470
 chatList_storySeen_top: #48484A
 chatList_storySeen_bottom: #48484A
-wallpaper: #000000
 chat_animateMessageColors: true
 chat_message_incoming_bubble_withWp_bg: #292929
 chat_message_incoming_bubble_withWp_gradientBg: #292929
@@ -294,7 +296,7 @@ chat_message_selectionControl_stroke: #FFD580
 chat_message_selectionControl_fg: #FFFFFF
 chat_message_deliveryFailed_bg: #FF000F
 chat_message_deliveryFailed_fg: #FFD580
-chat_message_mediaHighlightOverlay: #D58099
+chat_message_mediaHighlightOverlay: #EF6B73
 chat_message_stickerPlaceholder_withWp: #FFFFFF19
 chat_message_stickerPlaceholder_withoutWp: #FFFFFF19
 chat_message_stickerPlaceholderShimmer_withWp: #FFFFFF19
@@ -372,6 +374,7 @@ chat_historyNav_fg: #FFD580
 chat_historyNav_badgeBg: #FF8040
 chat_historyNav_badgeStroke: #FF8040
 chat_historyNav_badgeText: #FFFFFF
+wallpaper: #000000
 actionSheet_dim: #292929
 actionSheet_bgType: dark
 actionSheet_opaqueItemBg: #1A1A1A
@@ -399,7 +402,7 @@ contextMenu_sectionSeparator: #292929
 contextMenu_itemBg: #292929
 contextMenu_itemHighlightedBg: #D58026
 contextMenu_primary: #FFD580
-contextMenu_secondary: #D580CC
+contextMenu_secondary: #EF6B73
 contextMenu_destructive: #EF6B73
 notification_bg: #1A1A1A
 notification_primaryText: #FFD580
