@@ -132,7 +132,7 @@ chatList_unreadBadgeActiveText: #FFFFFF
 chatList_unreadBadgeInactiveBg: #007B88
 chatList_unreadBadgeInactiveText: #FFFFFF
 chatList_reactionBadgeActiveBg: #FF2D55
-chatList_pinnedBadge: #FF5503
+chatList_pinnedBadge: #4DBCED
 chatList_pinnedSearchBar: #292929
 chatList_regularSearchBar: #292929
 chatList_sectionHeaderBg: #1A1A1A
@@ -140,8 +140,8 @@ chatList_sectionHeaderText: #FFD580
 chatList_verifiedIconBg: #FF8040
 chatList_verifiedIconFg: #FFFFFF
 chatList_secretIcon: #FF8040
-chatList_pinnedArchiveAvatar_background_top: #4DBCED
-chatList_pinnedArchiveAvatar_background_bottom: #4DBCED
+chatList_pinnedArchiveAvatar_background_top: #FF5503
+chatList_pinnedArchiveAvatar_background_bottom: #FF5503
 chatList_pinnedArchiveAvatar_foreground: #FFD580
 chatList_unpinnedArchiveAvatar_background_top: #292929
 chatList_unpinnedArchiveAvatar_background_bottom: #292929
