@@ -4,8 +4,8 @@
     </a>
 </div>
 <h1 align="center">Dark Castle for     
-    <a href="https://example.com" target="_blank">
-    [Example Platform]
+    <a href="https://apps.apple.com/app/telegram-messenger/id686449807" target="_blank">
+    Telegram (iOS)
     </a>
 </h1>
 <p align="center">
