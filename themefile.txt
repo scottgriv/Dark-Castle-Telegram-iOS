@@ -122,12 +122,12 @@ chatList_authorName: #FFD580
 chatList_messageText: #9C9C9C
 chatList_messageHighlightedText: #FFD580
 chatList_messageDraftText: #FF000F
-chatList_checkmark:#08D220
+chatList_checkmark: #08D220
 chatList_pendingIndicator: #4164FF
 chatList_failedFill: #FF000F
 chatList_failedFg: #FFD580
 chatList_muteIcon: #FF000F
-chatList_unreadBadgeActiveBg: #AA1B86
+chatList_unreadBadgeActiveBg: #FF8040
 chatList_unreadBadgeActiveText: #FFFFFF
 chatList_unreadBadgeInactiveBg: #007B88
 chatList_unreadBadgeInactiveText: #FFFFFF
@@ -285,10 +285,10 @@ chat_message_mediaDateAndStatusBg: #1A1A1A
 chat_message_mediaDateAndStatusText: #FFD580
 chat_message_shareButtonBg_withWp: #1A1A1A
 chat_message_shareButtonBg_withoutWp: #1A1A1A
-chat_message_shareButtonStroke_withWp: #575757
-chat_message_shareButtonStroke_withoutWp: #575757
-chat_message_shareButtonFg_withWp: #575757
-chat_message_shareButtonFg_withoutWp: #575757
+chat_message_shareButtonStroke_withWp: #FF8040
+chat_message_shareButtonStroke_withoutWp: #FF8040
+chat_message_shareButtonFg_withWp: #4DBCED
+chat_message_shareButtonFg_withoutWp: #4DBCED
 chat_message_mediaOverlayControl_bg: #1A1A1A
 chat_message_mediaOverlayControl_fg: #FFD580
 chat_message_selectionControl_bg: #FF8040
@@ -329,7 +329,7 @@ chat_inputPanel_inputStroke: #292929
 chat_inputPanel_inputPlaceholder: #0D8501
 chat_inputPanel_inputText: #4164FF
 chat_inputPanel_inputControl: #BAE67E
-chat_inputPanel_actionControlBg: #FF8040
+chat_inputPanel_actionControlBg: #AA1B86
 chat_inputPanel_actionControlFg: #FFFFFF
 chat_inputPanel_primaryText: #FFD580
 chat_inputPanel_secondaryText: #0D8501
