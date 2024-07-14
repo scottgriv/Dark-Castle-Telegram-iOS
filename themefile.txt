@@ -16,7 +16,7 @@ passcode_bg_bottom: #292929
 passcode_button: #1A1A1A
 root_statusBar: white
 root_tabBar_background: #000000
-root_tabBar_separator: #2D449B
+root_tabBar_separator: #292929
 root_tabBar_icon: #FFD580
 root_tabBar_selectedIcon: #FF8040
 root_tabBar_text: #FFD580
@@ -32,7 +32,7 @@ root_navBar_control: #575757
 root_navBar_accentText: #AA1B86
 root_navBar_background: #000000
 root_navBar_opaqueBackground: #000000
-root_navBar_separator: #2D449B
+root_navBar_separator: #292929
 root_navBar_badgeFill: #EB5545
 root_navBar_badgeStroke: #1A1A1A
 root_navBar_badgeText: #FFFFFF
@@ -94,7 +94,7 @@ list_controlSecondary: #0D8501
 list_freeInputField_bg: #EF6B73
 list_freeInputField_stroke: #0D8501
 list_freeInputField_placeholder: #292929
-list_freeInputField_primary: #FFD580
+list_freeInputField_primary: #FFFFFF
 list_freeInputField_control: #292929
 list_mediaPlaceholder: #292929
 list_scrollIndicator: #FF8040
@@ -127,7 +127,7 @@ chatList_pendingIndicator: #4164FF
 chatList_failedFill: #FF000F
 chatList_failedFg: #FFD580
 chatList_muteIcon: #FF000F
-chatList_unreadBadgeActiveBg: #FF8040
+chatList_unreadBadgeActiveBg: #0D8501
 chatList_unreadBadgeActiveText: #FFFFFF
 chatList_unreadBadgeInactiveBg: #007B88
 chatList_unreadBadgeInactiveText: #FFFFFF
@@ -158,7 +158,7 @@ chat_message_incoming_bubble_withWp_bg: #292929
 chat_message_incoming_bubble_withWp_gradientBg: #292929
 chat_message_incoming_bubble_withWp_highlightedBg: #292929
 chat_message_incoming_bubble_withWp_stroke: #292929
-chat_message_incoming_bubble_withWp_reactionInactiveBg: #FFFFFF11
+chat_message_incoming_bubble_withWp_reactionInactiveBg: #BAE67E
 chat_message_incoming_bubble_withWp_reactionInactiveFg: #FFFFFF
 chat_message_incoming_bubble_withWp_reactionActiveBg: #FF8040
 chat_message_incoming_bubble_withWp_reactionActiveFg: #FFFFFF
@@ -171,7 +171,7 @@ chat_message_incoming_bubble_withoutWp_stroke: #292929
 chat_message_incoming_bubble_withoutWp_reactionInactiveBg: #FFFFFF11
 chat_message_incoming_bubble_withoutWp_reactionInactiveFg: #FFFFFF
 chat_message_incoming_bubble_withoutWp_reactionActiveBg: #FF8040
-chat_message_incoming_bubble_withoutWp_reactionActiveFg: #FFFFFF
+chat_message_incoming_bubble_withoutWp_reactionActiveFg: #AA1B86
 chat_message_incoming_bubble_withoutWp_reactionInactiveMediaPlaceholder: #FFFFFF19
 chat_message_incoming_bubble_withoutWp_reactionActiveMediaPlaceholder: #FFFFFF19
 chat_message_incoming_primaryText: #FFD580
@@ -210,9 +210,9 @@ chat_message_outgoing_bubble_withWp_bg: #FFD580
 chat_message_outgoing_bubble_withWp_gradientBg: #FFD580
 chat_message_outgoing_bubble_withWp_highlightedBg: #FFDA90
 chat_message_outgoing_bubble_withWp_stroke: #30303
-chat_message_outgoing_bubble_withWp_reactionInactiveBg: #FFFFFF1E
+chat_message_outgoing_bubble_withWp_reactionInactiveBg: #AA1B86
 chat_message_outgoing_bubble_withWp_reactionInactiveFg: #FFFFFF
-chat_message_outgoing_bubble_withWp_reactionActiveBg: #FFFFFF
+chat_message_outgoing_bubble_withWp_reactionActiveBg: #4DBCED
 chat_message_outgoing_bubble_withWp_reactionActiveFg: #00000000
 chat_message_outgoing_bubble_withWp_reactionInactiveMediaPlaceholder: #FFFFFF19
 chat_message_outgoing_bubble_withWp_reactionActiveMediaPlaceholder: #FFFFFF19
@@ -296,7 +296,7 @@ chat_message_selectionControl_stroke: #FFD580
 chat_message_selectionControl_fg: #FFFFFF
 chat_message_deliveryFailed_bg: #FF000F
 chat_message_deliveryFailed_fg: #FFD580
-chat_message_mediaHighlightOverlay: #EF6B73
+chat_message_mediaHighlightOverlay: #FFFFFF99
 chat_message_stickerPlaceholder_withWp: #FFFFFF19
 chat_message_stickerPlaceholder_withoutWp: #FFFFFF19
 chat_message_stickerPlaceholderShimmer_withWp: #FFFFFF19
@@ -395,7 +395,7 @@ actionSheet_inputPlaceholder: #575757
 actionSheet_inputText: #FFD580
 actionSheet_inputClearButton: #575757
 actionSheet_checkContent: #FFFFFF
-contextMenu_dim: #292929
+contextMenu_dim: #1A1A1A
 contextMenu_background: #000000
 contextMenu_itemSeparator: #D58026
 contextMenu_sectionSeparator: #292929
