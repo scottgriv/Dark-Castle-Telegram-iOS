@@ -2,7 +2,7 @@ name: Dark Castle iOS
 shortname: wPAMRRVDLaWv0E7Y
 // By: Scott Grivner
 // Repository: https://github.com/scottgriv/Dark-Castle-Telegram-iOS
-// Website: https://darkcastle.netlify.app/
+// Website: https://darkcastletheme.com/
 basedOn: night
 dark: true
 intro_statusBar: white
